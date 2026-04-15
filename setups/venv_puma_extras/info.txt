@@ -1,0 +1,3 @@
+For use after calling puma_setup.sh
+
+Adds a few extra useful plotting modules such as seaborn
