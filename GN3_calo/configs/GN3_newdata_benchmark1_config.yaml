@@ -251,10 +251,10 @@ data:
       - FCAL1
       - FCAL2
 
-  train_file: /home/xzcapwsl/phd/datasets/atlas/MSci/GN3V01-6class-calo-info/output/pp_output_train.h5
-  val_file: /home/xzcapwsl/phd/datasets/atlas/MSci/GN3V01-6class-calo-info/output/pp_output_val.h5
-  norm_dict: /home/xzcapwsl/phd/datasets/atlas/MSci/GN3V01-6class-calo-info/output/norm_dict.yaml
-  class_dict: /home/xzcapwsl/phd/datasets/atlas/MSci/GN3V01-6class-calo-info/output/class_dict.yaml
+  train_file: /home/...
+  val_file: /home/...
+  norm_dict: /home/...
+  class_dict: /home/...
 
   batch_size: 1000
   num_workers: 10

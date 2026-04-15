@@ -223,10 +223,10 @@ data:
       - f1
       - f3
 
-  train_file: /home/xzcapwsl/phd/datasets/atlas/MSci/GN3V01-contaminated-bjet-morestats/output/pp_output_train_vds.h5
-  val_file: /home/xzcapwsl/phd/datasets/atlas/MSci/GN3V01-contaminated-bjet-morestats/output/pp_output_val_split_000.h5
-  norm_dict: /home/xzcapwsl/phd/datasets/atlas/MSci/GN3V01-contaminated-bjet-morestats/output/norm_dict.yaml
-  class_dict: /home/xzcapwsl/phd/datasets/atlas/MSci/GN3V01-contaminated-bjet-morestats/output/class_dict.yaml
+  train_file: /home/...
+  val_file: /home/...
+  norm_dict: /home/...
+  class_dict: /home/...
 
   batch_size: 2000
   num_workers: 10
